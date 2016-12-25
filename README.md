@@ -40,7 +40,6 @@ echo $compare->showFormattedText(); // will print different words highlighted in
 To compare texts you can use $compare->files() or $compare->texts();
 
 ```
-
 ##Configs
 
 ```
