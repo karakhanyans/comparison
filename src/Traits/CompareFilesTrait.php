@@ -89,7 +89,7 @@ trait CompareFilesTrait
         }
     }
     
-    public function compareFiles($a,$b)
+    private function compareFiles($a,$b)
     {
         $this->getContent($a,$b);
     }
@@ -122,16 +122,6 @@ trait CompareFilesTrait
     public function showFormattedText()
     {
         return $this->currentText;   
-    }
-
-    public function old()
-    {
-        return $this->old;
-    }
-
-    public function current()
-    {
-        return $this->current;
     }
 
     public function tag($tag)
