@@ -1,4 +1,4 @@
-# comparison
+# Compare two Images, Texts or Files.
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -35,6 +35,9 @@ echo $compare->differencePercent(); // difference in percent
 echo $compare->sameWords(); // array with same words
 echo $compare->sameWordsCount(); // count of same words
 echo $compare->showFormattedText(); // will print different words highlighted in text
+
+
+To compare texts you can use $compare->files() or $compare->texts();
 
 ```
 
