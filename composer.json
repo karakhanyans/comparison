@@ -1,7 +1,7 @@
 {
     "name": "karakhanyans/comparison",
     "type": "library",
-    "description": "Compare 2 Images, Texts etc. and get the difference percent.",
+    "description": "Compare two Images, Texts or Files and get the difference.",
     "keywords": [
         "Karakhanyans",
         "Comparison"
