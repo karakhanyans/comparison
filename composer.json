@@ -1,9 +1,9 @@
 {
-    "name": "karakhanyans/comparison",
+    "name": "karakhanyans/comparison-files",
     "type": "library",
     "description": "Compare two Images, Texts or Files and get the difference.",
     "keywords": ["laravel", "comparison", "files", "images","compare"],
-    "homepage": "https://github.com/karakhanyans/comparison",
+    "homepage": "https://github.com/karakhanyans/comparison-files",
     "license": "MIT",
     "authors": [
         {
